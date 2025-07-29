@@ -4,6 +4,8 @@
 
 [<Day 4> Azure OpenAI 사용법 외 Streamlit 웹 개발](./Day%204/README.md)
 
+[<Day 5> Azure Web App, Storage, NLP ](./Day%205/README.md)
+
 ## 참고 자료 
 [Git 강좌](https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM)
 
