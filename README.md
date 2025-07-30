@@ -1,5 +1,8 @@
 # KTds4기 과정에 오신 여러분을 환영합니다. 
 
+## MVP 프로젝트 기획안 제출 링크: 
+[https://forms.office.com/Pages/ResponsePage.aspx?id=XT_QeNYMbE-DsAcSKVBTah7_FeUXUvlKjmvZAaBbj2lUNElUQVc1OExVNlRUM1ZBUDNYREgyU0IxSC4u](https://forms.office.com/Pages/ResponsePage.aspx?id=XT_QeNYMbE-DsAcSKVBTah7_FeUXUvlKjmvZAaBbj2lUNElUQVc1OExVNlRUM1ZBUDNYREgyU0IxSC4u) 
+
 ## Daily 교육자료.
 
 [<Day 4> Azure OpenAI 사용법 외 Streamlit 웹 개발](./Day%204/README.md)
