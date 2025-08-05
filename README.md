@@ -9,9 +9,11 @@
 
 [<Day 5> Azure Web App, Storage, NLP ](./Day%205/README.md)
 
-[<Day 6> Azure AI Search ](./Day%206/README.md)]
+[<Day 6> Azure AI Search ](./Day%206/README.md)
 
-[<Day 7> Azure AI Search Vector RAG and Agent](./Day%207/README.md)]
+[<Day 7> Azure AI Search Vector RAG and Agent](./Day%207/README.md)
+
+[<Samples> Azure AI Search RAG and Agent Samples](./Samples/)
 
 ## 참고 자료 
 [Git 강좌](https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM)
